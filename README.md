@@ -545,4 +545,21 @@ If someone asks what this project does, you can say:
 
 ## 19. In One Sentence
 
+
+## 20. Contributing
+
+Contributions are welcome! If you have ideas for improvements, bug fixes, or new educational features, feel free to open an issue or submit a pull request.
+
+### How to Contribute
+
+1. Fork the repository on GitHub.
+2. Clone your fork to your local machine.
+3. Create a new branch for your feature or fix.
+4. Make your changes and commit them with clear messages.
+5. Push your branch to your fork and open a pull request.
+
+All contributions, big or small, help make this project better for students and educators!
+
+---
+
 Backpatching Optimization Simulator is a small Streamlit-based compiler education tool that turns user-entered control-flow statements into intermediate code, patches unresolved jumps, and shows the optimized result step by step.
